@@ -1,0 +1,101 @@
+Welcome to BlackJack
+Welcome to a new round of BlackJack:
+Player's hand is: 20
+Dealer's hand is: 20
+Player and dealer have the same value hand, push!
+Welcome to a new round of BlackJack:
+Player's hand is: 19
+Dealer's hand is: 23
+Player wins! Dealer bust!
+Welcome to a new round of BlackJack:
+Player's hand is: 18
+Dealer's hand is: 18
+Player and dealer have the same value hand, push!
+Welcome to a new round of BlackJack:
+Player's hand is: 17
+Dealer's hand is: 19
+Dealer wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 17
+Dealer's hand is: 24
+Player wins! Dealer bust!
+Welcome to a new round of BlackJack:
+Player's hand is: 19
+Dealer's hand is: 20
+Dealer wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 16
+Dealer's hand is: 20
+Dealer wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 19
+Dealer's hand is: 26
+Player wins! Dealer bust!
+Welcome to a new round of BlackJack:
+Player's hand is: 16
+Dealer's hand is: 20
+Dealer wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 17
+Dealer's hand is: 20
+Dealer wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 23
+Dealer's hand is: 19
+Dealer wins! Player bust!
+Welcome to a new round of BlackJack:
+Player's hand is: 20
+Dealer's hand is: 17
+Player wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 21
+Dealer's hand is: 22
+Player has blackjack
+Welcome to a new round of BlackJack:
+Player's hand is: 17
+Dealer's hand is: 20
+Dealer wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 18
+Dealer's hand is: 18
+Player and dealer have the same value hand, push!
+Welcome to a new round of BlackJack:
+Player's hand is: 23
+Dealer's hand is: 20
+Dealer wins! Player bust!
+Welcome to a new round of BlackJack:
+Player's hand is: 19
+Dealer's hand is: 17
+Player wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 17
+Dealer's hand is: 20
+Dealer wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 17
+Dealer's hand is: 22
+Player wins! Dealer bust!
+Welcome to a new round of BlackJack:
+Player's hand is: 16
+Dealer's hand is: 19
+Dealer wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 22
+Dealer's hand is: 17
+Dealer wins! Player bust!
+Welcome to a new round of BlackJack:
+Player's hand is: 19
+Dealer's hand is: 17
+Player wins!!
+Welcome to a new round of BlackJack:
+Player's hand is: 18
+Dealer's hand is: 21
+Dealer has blackjack
+Welcome to a new round of BlackJack:
+Player's hand is: 16
+Dealer's hand is: 22
+Player wins! Dealer bust!
+Welcome to a new round of BlackJack:
+Player's hand is: 17
+Dealer's hand is: 24
+Player wins! Dealer bust!
